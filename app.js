@@ -71,7 +71,7 @@ yargs.command({
 
         }
 })
-//add, remove, read, list
+
 
 yargs.parse()
 
